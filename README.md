@@ -8,6 +8,8 @@
 
 Clone the Repo:
 
+https://github.com/AatkaMeraj/Fish_classification_CNN.git
+
 **MODEL ARCHITECTURE**
 
 Models Trained:
@@ -34,10 +36,14 @@ Early stopping, ReduceLROnPLateau and model checkpoint callbacks used.
 
 **RESULT**
 
-VGG16 Model: 97% accuracy.
+VGG16 Model: 97% accuracy
+
 EfficientNetB0: 96% accuracy
+
 MobileNet: 100% accuracy
+
 ResNet50: 100% accuracy
+
 InceptionV3: 98% accuracy
 
 **InceptionV3 model is used for deployment.**
