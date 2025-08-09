@@ -46,7 +46,11 @@ ResNet50: 100% accuracy
 
 InceptionV3: 98% accuracy
 
+**DEPLOYMENT**
+
 **InceptionV3 model is used for deployment.**
+
+InceptionV3 model is used as it is not over-fitting and the accuracy is also good among other models.
 
 
 
